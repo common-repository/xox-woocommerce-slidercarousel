@@ -1,0 +1,57 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.cmb-row.cmb-type-title {
+    padding: 0 !important;
+    color: #999;
+}
+
+.cmb-row.cmb-type-title .cmb2-metabox-title {
+    font-size: 18px;
+}
+
+#my-publish-box {
+    display: none;
+    z-index: 99;
+}
+
+.xoxscbtn {
+    float: left;
+    font-size: 80px;
+    padding-right: 7px;
+    line-height: 72px;
+}
+
+#ads-xox .handlediv, #ads-xox .hndle{
+	display: none !important;
+}
+
+.xox-img-load{
+	width: 100%;
+}
+
+#ads-xox .inside{
+	padding: 1px;
+	margin: 0px;
+}
+
+#ads-xox h3{
+    font-size: 18px;
+    padding: 10px;
+    margin: 0px;
+    font-weight: 600;
+}
+#ads-xox p{
+    font-size: 14px;
+    padding: 5px 5px 2px;
+    margin: 0px;
+    font-weight: 400;
+}
+.affs-box {
+	border: dashed #292929 1px;
+}
+.affs-box a img {
+	max-width: 100%;
+}
